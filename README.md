@@ -5,8 +5,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/405ac925-c23d-4079-985f-f0b7ceb21ffb/deploy-status)](https://app.netlify.com/sites/tonmoysu/deploys)
 ## [Portfolio Live on Netlify and Vercel app🎯](https://sisu.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
