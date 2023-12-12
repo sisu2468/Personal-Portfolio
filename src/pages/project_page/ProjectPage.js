@@ -7,7 +7,7 @@ import nyc from "../../images/nyc.png";
 import ci from "../../images/onboarding.png";
 import hd from "../../images/hd.png";
 import eco from "../../images/eco.png";
-import pp from "../../images/portfolio.png";
+import pp from "../../images/photo.png";
 import meal from "../../images/meal.png";
 import ac from "../../images/academic.png";
 import age from "../../images/age.png";

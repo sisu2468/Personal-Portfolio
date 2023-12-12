@@ -30,12 +30,12 @@ export default function MyNav() {
       expanded={expand}
       fixed="top"
       expand="md"
-      className={navColour ? "sticky" : "navbar"}
+      className={navColour ? "sticky" : "vertical-navbar"}
     >
       <Container>
         <Navbar.Brand href="/">
           <div className="d-flex flex-row justify-content-between">
-            <img src="./profile.png" className="img-fluid logo" alt="brand" />
+            <img src="./photo.png" className="img-fluid logo" alt="brand" />
             <h5
               id="navhead"
               style={{
@@ -44,7 +44,7 @@ export default function MyNav() {
                 color: "#fbd9ad",
               }}
             >
-              MD MAFUJUL HASAN
+              Law Jon Fing
             </h5>
           </div>
         </Navbar.Brand>
